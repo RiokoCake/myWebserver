@@ -86,10 +86,5 @@ make
 ./webbench-1.5/webbench -c 5000 -t 10 http://ip:port/
 ./webbench-1.5/webbench -c 10000 -t 10 http://ip:port/
 ```
-* 测试环境: Ubuntu:19.10 cpu:i5-8400 内存:8G 
-* QPS 10000+
-
-## TODO
-* config配置
-* 完善单元测试
-* 实现循环缓冲区
+* 测试环境: 
+* QPS 
