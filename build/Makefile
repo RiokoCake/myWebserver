@@ -11,7 +11,3 @@ all: $(OBJS)
 
 clean:
 	rm -rf ../bin/$(OBJS) $(TARGET)
-
-
-
-
